@@ -15,12 +15,11 @@ Un mini proyecto creado con **React + Vite** que genera frases aleatorias de pro
 ---
 
 ## 🧠 Tecnologías utilizadas
-
-- React
-- Vite
-- HTML + CSS
-- JavaScript moderno (ES6+)
-
+- ✅ Generar frases aleatorias
+- 📋 Copiar frase al portapapeles
+- 💗 Agregar o quitar de favoritos
+- 📜 Mostrar lista de frases favoritas
+- 📱 Responsive en móviles
 ---
 
 ## 🖼️ Vista previa
@@ -29,6 +28,11 @@ Un mini proyecto creado con **React + Vite** que genera frases aleatorias de pro
 
 
 ---
+## 📡 Deploy
+
+Está online 👉 [https://generador-de-frases.vercel.app](https://generador-de-frases.vercel.app)
+
+
 
 ## 🛠️ Instalación y ejecución local
 
