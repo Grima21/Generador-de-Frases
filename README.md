@@ -30,7 +30,7 @@ Un mini proyecto creado con **React + Vite** que genera frases aleatorias de pro
 ---
 ## 📡 Deploy
 
-Está online 👉 [https://generador-de-frases.vercel.app](https://generador-de-frases.vercel.app)
+Está online 👉 https://generador-de-frases-l78aa1hrz-grima21s-projects.vercel.app/
 
 
 
