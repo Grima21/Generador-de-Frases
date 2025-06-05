@@ -25,9 +25,8 @@ Un mini proyecto creado con **React + Vite** que genera frases aleatorias de pro
 
 ## 🖼️ Vista previa
 
-> 💡 ¡Podés agregar un GIF o screenshot si lo subiste!
+![imagen](https://github.com/user-attachments/assets/7e6f9f18-e0ca-4e65-9399-285e58922b31)
 
-![Preview](./screenshot.png)
 
 ---
 
